@@ -4,6 +4,7 @@ This python script takes a YAML file with a list of countries you've visited or 
 ## Usage
 First install the dependencies:
 ```sh
+pip install -r requirements.txt
 ```
 
 Next, edit `countries.yaml` as desired.
