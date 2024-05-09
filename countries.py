@@ -3,7 +3,7 @@ import geopandas as gpd
 import matplotlib.pyplot as plt
 from matplotlib.patches import Patch
 
-with open('visited_countries.yaml', 'r') as file:
+with open('countries.yaml', 'r') as file:
     data = yaml.safe_load(file)
 
 lived_countries = data.get('Lived', [])
