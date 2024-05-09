@@ -1,0 +1,21 @@
+File: "countries-110m.geojson"
+
+Colours:
+  Lived: "#11f48e"
+  Visited: "#b7f4d9"
+  Default: "#f4f4f4"
+
+Lived:
+- United Kingdom
+
+Visited:
+- France
+- Italy
+- Germany
+- Spain
+- Portugal
+- Belgium
+- Luxembourg
+- Switzerland
+- Norway
+- Morocco
