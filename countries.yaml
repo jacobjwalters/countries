@@ -1,9 +1,12 @@
-File: "countries-110m.geojson"
+File: "countries.geojson"
 
 Colours:
-  Lived: "#11f48e"
-  Visited: "#b7f4d9"
+  Lived: "#001604"
+  Visited: "#00a871"
   Default: "#f4f4f4"
+  Background: "#f5fffa"
+
+Resolution: 10000
 
 Lived:
 - United Kingdom
